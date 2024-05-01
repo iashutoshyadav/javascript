@@ -22,3 +22,17 @@ let isloggedIn = false
 
 console.log(typeof age)
 
+const id = Symbol('123')
+const anotherId = Symbol('453')
+console.log( id == anotherId)
+
+const heros = ("ghfgj" ,"yugwegyuf" )
+let mtobj = {
+    name:vahu,
+    age:22,
+}
+const myFunction = function(){
+    console.log("hello world");
+}
+
+console.log(typeof mtobj)
